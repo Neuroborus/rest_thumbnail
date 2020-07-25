@@ -10,5 +10,6 @@ edition = "2018"
 rocket = "0.4.2"
 image = "0.22.4"
 bytes = "0.5.3"
+curl = "0.4.31"
 reqwest = { git = "https://github.com/seanmonstar/reqwest.git" }
 tokio = { version = "0.2", features = ["full"] }
